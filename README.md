@@ -1,4 +1,4 @@
-
+[![MasterHead](https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif)](https://wwww.dhruvkhurana1626.io)
 <img align="right" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" width=400px height=200px>
 
 <h1 align="center">Hi 👋, I'm Dhruv Khurana</h1>
