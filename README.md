@@ -1,64 +1,37 @@
-<h1 align="center">Dhruv Khurana</h1>
-<h3 align="center">Backend Developer | Spring Boot | REST APIs</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Dhruv+Khurana;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Full+Stack+Learner" alt="Typing SVG" />
+</h1>
 
----
-
-## 💙 About Me
-
-- Java Backend Developer focused on building structured backend systems  
-- Working with Spring Boot, REST APIs & database-driven applications  
-- Learning service-to-service communication & clean architecture patterns  
-- Improving DSA, backend fundamentals, and system thinking daily  
-- Consistent builder with long-term focus  
-
----
-
-## 🔵 Tech Stack
-
-### Backend
-- Java  
-- Spring Boot  
-- REST APIs  
-- JPA / Hibernate  
-- MySQL  
-
-### Tools & Practices
-- Git & GitHub  
-- Postman  
-- Swagger / OpenAPI  
-- Maven  
-- Layered Architecture  
-- Global Exception Handling  
-
----
-
-## 📈 Currently Working On
-
-- Spring Security & JWT  
-- API standardization & error handling patterns  
-- Backend system design fundamentals  
-- Writing cleaner, production-style backend code  
-
----
-
-## 📊 GitHub Activity
+<h3 align="center">
+  💙 Java Backend & Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkhurana1626&show_icons=true&theme=blue_navy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkhurana1626&theme=blueberry" />
+  Building with Spring Boot • REST APIs • Clean Code
 </p>
 
 ---
 
-## 🌍 Connect
-
-- 📍 Delhi, India  
-- 🔗 LinkedIn: https://www.linkedin.com/in/dhruv-khurana-756726219  
-- 🧠 LeetCode: https://leetcode.com/u/dhruvkhurana/  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkhurana1626&theme=blueberry&hide_border=true" />
+</p>
 
 ---
 
-<h3 align="center">💙 Consistency Over Motivation</h3>
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruv-khurana-756726219">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/dhruvkhurana/">
+    <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💙 Keep Building.
+</p>
