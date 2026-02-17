@@ -7,28 +7,17 @@
 </h3>
 
 <p align="center">
-  Building with Spring Boot • REST APIs • Clean Code
+  Small Progress Every Day Builds Unstoppable Momentum
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkhurana1626&theme=blueberry&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-khurana-756726219">
+<div align="center">
+<h1>🌐 Lets Connect </h1> <a href="https://www.linkedin.com/in/dhruv-khurana-756726219">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://leetcode.com/u/dhruvkhurana/">
+  </a> <a href="https://leetcode.com/u/dhruvkhurana/">
     <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
