@@ -4,10 +4,6 @@
 </h1>
 
 <p align="center">
-  <b>Java Backend Developer</b> • Spring Boot • REST APIs • SQL
-</p>
-
-<p align="center">
   <i>Consistent execution. Clean architecture. Real growth.</i>
 </p>
 
